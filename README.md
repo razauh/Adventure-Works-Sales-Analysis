@@ -1,4 +1,4 @@
-# Sales Analysis Project
+# Sales Analysis
 
 This project involves the analysis of sales data from the AdventureWorks2019 database to derive valuable insights and key performance indicators (KPIs) for business decision-making.
 
