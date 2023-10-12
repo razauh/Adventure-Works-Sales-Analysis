@@ -1,4 +1,4 @@
-# Market Basket Analysis Project
+# Sales Analysis
 
 This project focuses on performing market basket analysis to identify sets of products that are frequently purchased together. The goal is to discover product associations and improve business strategies based on customer purchasing patterns.
 
