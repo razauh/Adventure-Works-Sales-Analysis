@@ -1,27 +1,21 @@
-# Sales Analysis
+# Sales Analysis Project
 
-This project focuses on performing market basket analysis to identify sets of products that are frequently purchased together. The goal is to discover product associations and improve business strategies based on customer purchasing patterns.
+This project involves the analysis of sales data from the AdventureWorks2019 database to derive valuable insights and key performance indicators (KPIs) for business decision-making.
 
 ## Project Overview
 
-- **Objective**: Identify 12 frequently co-purchased products through market basket analysis.
-- **Tools Used**: SQL, Data Analysis, Business Insights
-- **Dataset**: AdventureWorks2019 Sales Data
+- **Objective**: Analyze sales data to derive insights and key performance indicators.
+- **Tools Used**: SQL, Python, Tableau
+- **Datasets**: AdventureWorks2019 Sales Data
 
-## Key Achievements
+## Key Features
 
-1. **Market Basket Analysis**:
-   - Conducted a thorough market basket analysis of the AdventureWorks2019 sales data.
-   - Utilized SQL to identify and quantify associations between products purchased together.
-
-2. **Product Associations**:
-   - Successfully found and documented a set of 12 products that are frequently co-purchased by customers.
-
-3. **Tableau Dashboard**:
-   - Created a Tableau dashboard for quick and interactive analysis. You can access the dashboard [here](https://public.tableau.com/app/profile/raza.ul.haq/viz/adventureworks_16507123847180/SalesAnalysis?publish=yes).
-
-4. **Business Insights**:
-   - Provided valuable insights into customer purchasing behavior, which can be used to improve product placement, recommendations, and marketing strategies.
+1. **Annual Profit Growth Rate (SQL)**
+2. **Customer Revenue Impact (SQL)**
+3. **Product Profit Analysis (SQL)**
+4. **Market Basket Analysis (Python)**
+5. **Tableau Dashboard**:
+   - Developed a Tableau dashboard for quick and interactive data analysis. You can access the dashboard [here](https://public.tableau.com/app/profile/raza.ul.haq/viz/adventureworks_16507123847180/SalesAnalysis?publish=yes).
 
 ## How to Replicate
 
@@ -29,23 +23,14 @@ To replicate this analysis, follow these steps:
 
 1. **Data Source**: Obtain the AdventureWorks2019 Sales Data.
 
-2. **SQL Analysis**: Execute the SQL queries provided in the project's SQL script to perform market basket analysis.
+2. **SQL Analysis**: Execute the SQL queries provided in the project's SQL script for annual profit growth, customer revenue impact, and product profit analysis.
 
-3. **Results**: Review the results to identify product associations and patterns.
+3. **Python Analysis**: Use the Python script provided to perform market basket analysis.
 
-## Project Files
-
-- `market_basket_analysis.sql`: SQL script containing the queries for market basket analysis.
-- `results.md`: Documented results, including the 12 frequently co-purchased products and insights.
+4. **Tableau Dashboard**: Access the Tableau dashboard for interactive data exploration.
 
 ## Additional Notes
 
-- The analysis is based on the AdventureWorks2019 sales data and can be adapted for other datasets or e-commerce platforms.
-- Further analysis or visualization tools can be applied to enhance the insights generated.
+- This project combines SQL, Python, and Tableau for a comprehensive analysis of sales data.
+- Feel free to reach out for further details or collaboration opportunities.
 
-## Author
-
-- [Your Name]
-- [Your Contact Information]
-
-Feel free to contact me for any questions or collaboration opportunities.
